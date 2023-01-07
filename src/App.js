@@ -31,7 +31,7 @@ function App() {
             <div className="card-body">
               <button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 +
-              </button>
+              </button>    
             </div>
 
             <div className="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -64,7 +64,6 @@ function App() {
         </div>
 
         <div className="col-3">
-
         </div>
       </div>
     </div>
